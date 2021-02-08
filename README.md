@@ -19,7 +19,7 @@ Commands are invoked by @mention or by the bot prefix `.` - The bot prefix is no
 We won't be an all-purpose bot that manages your roles, kicks/bans your users, and eats your lunch. If you want those features, you're welcome to code them yourself.
 
 # Commands
-* Full commands list and features [available here](/commands.md#rsinfo-commands).
+* Full commands list and features [available here](/commands.md).
 * We keep some non-identifiable information to make running commands easier. Privacy policy [available here](/privacy.md#user-data).
 
 # Feature Requests/Bug Reports
