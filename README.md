@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/VeryLongDelay/RuneBot/issues"><img alt="Issues" src="https://img.shields.io/github/issues/VeryLongDelay/RuneBot?style=for-the-badge" /></a> <a href="https://github.com/VeryLongDelay/RuneBot"> <img alt ="Status" src="https://img.shields.io/badge/Status-Under%20developpement-yellow?style=for-the-badge"> </a>
+  <a href="https://github.com/VeryLongDelay/RuneBot/issues"><img alt="Issues" src="https://img.shields.io/github/issues/VeryLongDelay/RuneBot?style=for-the-badge" /></a> <a href="https://github.com/VeryLongDelay/RuneBot"> <img alt ="Status" src="https://img.shields.io/badge/Status-Under%20developement-yellow?style=for-the-badge"> </a>
   <br/>
   <a href="https://discord.gg/kgCCpsp"><img alt="Discord" src="https://img.shields.io/discord/305765557058273280?color=blue&labelColor=292929&label=chat%20-%20discord&logo=discord&style=for-the-badge" /></a>
 </p>
